@@ -2,8 +2,6 @@
 
 `🔥Hello World!`  
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=heappynd.heappynd)
-
 [![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
